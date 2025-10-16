@@ -1,11 +1,13 @@
 # 🧠 Mental Health Sentiment Analysis using Machine Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]()
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)]()
+[![Zenodo DOI](https://zenodo.org/badge/DOI_10.5281/zenodo.17373194.svg)](https://doi.org/10.5281/zenodo.17373194)
 
-This repository contains the complete implementation of the **Final Year Research Thesis** titled  
+
+This repository contains the complete implementation of the **Final Year Research Thesis Project** titled  
 **“Sentiment Analysis for Mental Health Monitoring using Machine Learning”**  
-by **Maaz Karim**, BS Computer Science (Gold Medalist), University of Buner, Pakistan (2025).
+by **Maaz Kareem**, BS Computer Science (Gold Medalist), University of Buner, Pakistan (2025).
 
 ---
 
@@ -45,7 +47,7 @@ This research utilized **three ethically sourced datasets** to ensure robustness
 - **Categories:** 7 (Normal, Depression, Suicidal, Anxiety, Stress, Bipolar, Personality Disorder)
 
 ### 🧮 Dataset 2: Sentiment_Mental_Health_Dataset.csv
-- **Purpose:** Cross-domain validation and model robustness testing  
+- **Purpose:** Cross-domain testing and model robustness testing  
 - **Sources:**  
   - *Zenodo Reddit Mental Health Dataset* (for 5 categories)  
   - *Reddit PRAW API* (for Stress & Personality Disorder posts)  
@@ -87,21 +89,22 @@ This research utilized **three ethically sourced datasets** to ensure robustness
 ### Binary Classification
 | Model | Combined Data | Sentiment MH Data | Cross-Domain (Merged) |
 |--------|----------------|-------------------|-----------------------|
-| Logistic Regression | 91.3% | 89.8% | 88.7% |
-| SVM | 92.5% | 91.4% | 90.8% |
-| Random Forest | 88.7% | 87.5% | 85.9% |
-| **LightGBM** | **93.4%** | **92.6%** | **92.1%** |
+| Logistic Regression | 93.64% | 93.63% | 93.63% |
+| **SVM** | **94.16%** | **94.17%** | **94.17%** |
+| Random Forest | 93.47% | 93.49% | 93.48% |
+| LightGBM | 93.63% | 93.64% | 93.64% |
 
 ### Multi-Class Classification
 | Model | Combined Data | Sentiment MH Data | Cross-Domain (Merged) |
 |--------|----------------|-------------------|-----------------------|
-| Logistic Regression | 84.6% | 82.8% | 82.0% |
-| SVM | 86.7% | 84.5% | 83.4% |
-| Random Forest | 82.3% | 80.2% | 79.1% |
-| **LightGBM** | **88.9%** | **86.1%** | **85.3%** |
+| Logistic Regression | 74.83% | 39.41% | 52.68% |
+| SVM | 75.95% | 40.24% | 56.64% |
+| Random Forest | 74.53% | **49.11%** | **58.84%** |
+| **LightGBM** | **77.65%** | 42.73% | 57.34% |
 
 **Key Findings:**
-- LightGBM consistently outperformed others with up to **93% accuracy** in binary classification.
+- SVM consistently outperformed others with up to **94% accuracy** in binary classification.
+- While LightGBM perform good on trained dataset havine **78% accuracy** but Random Forest perform good on new datasets having **49% and 59% accuracy** respectively
 - Classical ML models proved interpretable and robust across domains.
 
 ---
@@ -111,6 +114,7 @@ This research utilized **three ethically sourced datasets** to ensure robustness
 - ROC curves
 - Feature importance plots (Random Forest & LightGBM)
 - F1-score bar charts
+- classification report
 
 All visual outputs are stored in the `/results/` directory.
 
