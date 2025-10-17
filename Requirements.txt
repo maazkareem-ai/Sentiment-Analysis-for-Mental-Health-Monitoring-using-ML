@@ -1,0 +1,46 @@
+############################################################
+# Sentiment Analysis for Mental Health Monitoring (ML)
+# Author: Maaz Kareem
+# University of Buner, Pakistan | 2025
+# ----------------------------------------------------------
+# This file lists all required Python libraries and their
+# recommended versions to reproduce the experiments.
+############################################################
+
+# Core Scientific Libraries
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+
+# Machine Learning
+scikit-learn>=1.4.0,<2.0.0
+lightgbm>=4.0.0,<5.0.0
+
+# Natural Language Processing
+nltk>=3.8.0,<4.0.0
+spacy>=3.7.0,<4.0.0
+
+# Visualization
+matplotlib>=3.8.0,<4.0.0
+seaborn>=0.13.0,<1.0.0
+
+# Optional: Model Evaluation and Reporting
+tqdm>=4.65.0,<5.0.0
+joblib>=1.3.0,<2.0.0
+
+# Optional: Text Preprocessing (if needed)
+regex>=2023.10.0
+wordcloud>=1.9.0
+
+# Jupyter Environment (for notebooks)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# ----------------------------------------------------------
+# Notes:
+# - Tested with Python 3.9+
+# - Use:  pip install -r requirements.txt
+# - After installing, download required NLTK data if missing:
+#     import nltk
+#     nltk.download('punkt')
+#     nltk.download('stopwords')
+# ----------------------------------------------------------
