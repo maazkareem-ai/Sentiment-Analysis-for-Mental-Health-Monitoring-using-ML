@@ -1,12 +1,13 @@
 # 🧠 Mental Health Sentiment Analysis using Machine Learning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17373194.svg)](https://doi.org/10.5281/zenodo.17373194)
-[![Download Dataset](https://img.shields.io/badge/Download-Dataset-success?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1YEB0w_tDlg8XT8nWkCjybzR0MWI3kf5E?usp=drive_link)
-
-
-
+<p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
+  <a href="https://doi.org/10.5281/zenodo.17373194"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17373194.svg" alt="DOI"></a>
+  <a href="https://drive.google.com/drive/folders/1YEB0w_tDlg8XT8nWkCjybzR0MWI3kf5E?usp=drive_link"><img src="https://img.shields.io/badge/Download-Dataset-success?style=flat-square&logo=google-drive" alt="Download Dataset"></a>
+  <a href="https://www.linkedin.com/in/maazkareem-ai"><img src="https://img.shields.io/badge/LinkedIn-Maaz%20Karim-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/maazkareem"><img src="https://img.shields.io/badge/Kaggle-maazkareem-brightgreen?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a></a>
+</p>
 
 
 This repository contains the complete implementation of the **Final Year Research Thesis Project** titled  
@@ -149,7 +150,14 @@ All visual outputs are stored in the `/results/` directory.
 - Extend datasets to include multilingual data (Urdu, Pashto, etc.)
 
 ---
+## 🧾 Citation
 
+If you use this repository for your research or publications, please cite it as:
+
+> **Kareem, M. (2025).** *Sentiment Analysis for Mental Health Monitoring using Machine Learning.*  
+> Undergraduate Research Thesis Project, Department of Computer Science, University of Buner, Pakistan.
+
+---
 ## 🧪 How to Run Locally
 
 ```bash
@@ -163,3 +171,16 @@ pip install -r requirements.txt
 # Launch notebooks
 jupyter notebook notebooks/ML_Binary_Class.ipynb
 jupyter notebook notebooks/ML_Multi_Class.ipynb
+```
+---
+## 👨‍💻 Author
+
+**Maaz Kareem**  
+🎓 *B.Sc. Computer Science (Gold Medalist)*  
+🏫 *University of Buner, Pakistan*  
+
+**Get in Touch:**  
+I am passionate about Machine Learning, Data Science, and AI.  
+For collaboration, questions, or professional inquiries, feel free to reach out via (**maaz.kareem.ai@gmail.com**).  
+I welcome discussions, feedback, and knowledge sharing.
+
