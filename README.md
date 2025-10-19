@@ -5,7 +5,7 @@
   <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
   <a href="https://doi.org/10.5281/zenodo.17373194"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17373194.svg" alt="DOI"></a>
   <a href="https://drive.google.com/drive/folders/1YEB0w_tDlg8XT8nWkCjybzR0MWI3kf5E?usp=drive_link"><img src="https://img.shields.io/badge/Download-Dataset-success?style=flat-square&logo=google-drive" alt="Download Dataset"></a>
-  <a href="https://www.linkedin.com/in/maazkareem-ai"><img src="https://img.shields.io/badge/LinkedIn-Maaz%20Karim-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maazkareem-ai"><img src="https://img.shields.io/badge/LinkedIn-Maaz%20Kareem-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/maazkareem"><img src="https://img.shields.io/badge/Kaggle-maazkareem-brightgreen?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a></a>
 </p>
 
