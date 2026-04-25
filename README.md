@@ -1,8 +1,6 @@
 
 <!-- ===================== STABLE PINK TITLE ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-111111?style=for-the-badge" />
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MENTAL+HEALTH+MONITORING" alt="Typing SVG" />
 
 <!-- ===================== MOVING SUBTITLE ===================== -->
 <p align="center">
