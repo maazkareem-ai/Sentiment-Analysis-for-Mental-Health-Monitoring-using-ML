@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+Research+Project;Gold+Medalist+Final+Year+Thesis" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+%7C+AI+Systems;Gold+Medalist+Research+Thesis+Project" />
 </h1>
 
 
