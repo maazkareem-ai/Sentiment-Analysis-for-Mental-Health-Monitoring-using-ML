@@ -1,14 +1,15 @@
 
+<!-- ===================== MAIN STABLE TITLE ===================== -->
+<h1 align="center" style="color:#FF4FD8; font-size:52px;">
+  Mental Health Monitoring
+</h1>
 
-<!-- ===================== BIG MOVING TITLE ===================== -->
+<!-- ===================== ANIMATED SUBTITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=56&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Mental+Health+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+using+Machine+Learning+%7C+NLP;Gold+Medalist+Final+Year+Thesis+Project;AI+for+Healthcare+and+Real+World+Impact" />
 </p>
 
-<!-- ===================== SMALL MOVING SUBTITLE ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1200&lines=Sentiment+Analysis+using+Machine+Learning+%7C+NLP+Research;Gold+Medalist+Final+Year+Thesis+Project;AI+for+Healthcare+and+Real+World+Impact" />
-</p>
+<br>
 
 
 
