@@ -190,4 +190,3 @@ jupyter notebook notebooks/ML_Multi_Class.ipynb
 **Get in Touch:**  
 I am passionate about Machine Learning, Data Science, and AI.  
 
-ack, and knowledge sharing.
