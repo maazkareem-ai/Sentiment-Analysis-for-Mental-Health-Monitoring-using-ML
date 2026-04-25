@@ -1,15 +1,13 @@
 
-<!-- ===================== MAIN STABLE TITLE ===================== -->
-<h1 align="center" style="color:#FF4FD8; font-size:52px;">
-  Mental Health Monitoring
-</h1>
+<!-- ===================== STABLE PINK TITLE ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mental%20Health%20Monitoring-FF4FD8?style=for-the-badge&logoColor=white" />
+</p>
 
-<!-- ===================== ANIMATED SUBTITLE ===================== -->
+<!-- ===================== MOVING SUBTITLE ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+using+Machine+Learning+%7C+NLP;Gold+Medalist+Final+Year+Thesis+Project;AI+for+Healthcare+and+Real+World+Impact" />
 </p>
-
-<br>
 
 
 
