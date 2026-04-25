@@ -2,7 +2,7 @@
 
 <!-- ===================== BIG MOVING TITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=65&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Mental+Health+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=60&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Mental+Health+Monitoring" />
 </p>
 
 <!-- ===================== SMALL MOVING SUBTITLE ===================== -->
