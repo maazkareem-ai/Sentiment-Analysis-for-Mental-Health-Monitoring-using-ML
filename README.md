@@ -189,5 +189,163 @@ jupyter notebook notebooks/ML_Multi_Class.ipynb
 
 **Get in Touch:**  
 I am passionate about Machine Learning, Data Science, and AI.  
+
+
+
+
+
+
+
+
+
+
+<!-- ===================== HERO TITLE ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=46&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=1200&lines=Sentiment+Analysis+for+Mental+Health+Monitoring" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=FF4FD8&center=true&vCenter=true&width=1100&lines=Machine+Learning+%7C+NLP+Research+Project;Gold+Medalist+Final+Year+Thesis;AI+for+Healthcare+and+Mental+Health+Monitoring" />
+</p>
+
+---
+
+<!-- ===================== SECTION TITLE ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=PROJECT+OVERVIEW" />
+</p>
+
+## 📄 Project Overview
+
+The objective of this research is to detect and classify mental health conditions from textual data collected from **social media platforms** using **Machine Learning (ML)** techniques.
+
+The focus is on classical ML algorithms for **interpretability, transparency, and efficiency** compared to deep learning approaches.
+
+### 🧠 Mental Health Categories
+- Normal  
+- Depression  
+- Anxiety  
+- Stress  
+- Suicidal Ideation  
+- Bipolar Disorder  
+- Personality Disorder  
+
+### 🎯 Tasks
+1. Binary Classification – Normal vs Abnormal  
+2. Multi-Class Classification – Seven categories  
+
+---
+
+<!-- ===================== DATASETS ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=FF4FD8&center=true&vCenter=true&width=800&lines=DATASETS+USED" />
+</p>
+
+## 🧩 Datasets Used
+
+Three ethically sourced datasets were used for robustness and generalization.
+
+### 🧮 Dataset 1: Combined_Data.csv
+- Training + testing dataset  
+- Multiple Kaggle sources  
+- 7-class classification  
+
+### 🧮 Dataset 2: Sentiment_Mental_Health_Dataset.csv
+- Reddit + Zenodo sources  
+- Cross-domain evaluation  
+- Real-world robustness testing  
+
+### 🧮 Dataset 3: Final_Merged_Dataset_Cleaned.csv
+- Combination of Dataset 1 & 2  
+- Final validation dataset  
+
+---
+
+<!-- ===================== METHODOLOGY ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=METHODOLOGY" />
+</p>
+
+## ⚙️ Methodology
+
+### 🧹 Preprocessing
+- Text cleaning  
+- Tokenization  
+- Lemmatization  
+- Stop-word removal  
+
+### 🔢 Feature Extraction
+- TF-IDF (unigrams + bigrams)
+
+### 🤖 Models
+- Logistic Regression  
+- SVM  
+- Random Forest  
+- LightGBM  
+
+### 📊 Evaluation
+- Accuracy, Precision, Recall, F1-score  
+- ROC-AUC  
+- 5-Fold Cross Validation  
+- Cross-domain testing  
+
+---
+
+<!-- ===================== RESULTS ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=FF4FD8&center=true&vCenter=true&width=800&lines=EXPERIMENTAL+RESULTS" />
+</p>
+
+### 🔵 Binary Classification (Best: SVM)
+
+- ⭐ Accuracy: **94.17%**
+
+### 🟣 Multi-Class Classification (Best: LightGBM)
+
+- ⭐ Accuracy: **77.65%**
+
+---
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=KEY+CONTRIBUTIONS" />
+</p>
+
+- Interpretable ML-based mental health detection system  
+- Multi-source dataset integration  
+- Cross-domain evaluation  
+- Ethical AI application in healthcare NLP  
+
+---
+
+<!-- ===================== ETHICS ===================== -->
+## ⚖️ Ethical Considerations
+
+- Only publicly available datasets used  
+- No personal/private data included  
+- Follows ethical AI research standards  
+
+---
+
+<!-- ===================== FUTURE ===================== -->
+## 💡 Future Work
+
+- Transformer models (BERT, RoBERTa)  
+- Explainable AI (SHAP / LIME)  
+- Real-time monitoring system  
+- Multilingual NLP expansion  
+
+---
+
+<!-- ===================== AUTHOR ===================== -->
+## 👨‍💻 Author
+
+**Maaz Kareem**  
+🎓 BS Computer Science (Gold Medalist)  
+🏫 University of Buner, Pakistan  
+
+<p align="center">
+Machine Learning • NLP • AI Research • Healthcare Systems
+</p>
 For collaboration, questions, or professional inquiries, feel free to reach out via (**maaz.kareem.ai@gmail.com**).  
 I welcome discussions, feedback, and knowledge sharing.
