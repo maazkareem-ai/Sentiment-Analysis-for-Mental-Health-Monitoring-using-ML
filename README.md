@@ -1,8 +1,8 @@
 
 <!-- ===================== STABLE PINK TITLE ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mental%20Health%20Monitoring-FF4FD8?style=for-the-badge&logoColor=white" />
-</p>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Mental%20Health%20Monitoring-FF4FD8?style=for-the-badge" />
+</h1>
 
 <!-- ===================== MOVING SUBTITLE ===================== -->
 <p align="center">
