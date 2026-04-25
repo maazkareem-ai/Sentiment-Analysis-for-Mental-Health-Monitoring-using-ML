@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+%7C+AI+Systems;Gold+Medalist+Research+Thesis+Project" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=44&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1400&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+%7C+AI+Research+Project;Gold+Medalist+Final+Year+Thesis" />
+</p>
 
 
 <p>
