@@ -1,7 +1,7 @@
 
 <!-- ===================== STABLE PINK TITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=64&duration=1&pause=999999&color=FF4FD8&center=true&vCenter=true&width=1400&lines=Mental+Health+Monitoring" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-111111?style=for-the-badge" />
 </p>
 
 <!-- ===================== MOVING SUBTITLE ===================== -->
