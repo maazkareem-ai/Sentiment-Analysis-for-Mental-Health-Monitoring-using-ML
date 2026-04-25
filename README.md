@@ -10,7 +10,7 @@
 
 <p>
   <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
-  <a><img src="https://img.shields.io/badge/Research-Thesis%20Project-6A5ACD?style=flat-square"></a>
+  <a href="https://drive.google.com/file/d/1LtsFLMTkniCHSeP8uazzatLXd6AKQQZ2/view?usp=drive_link"><img src="https://img.shields.io/badge/Research-Thesis%20Project-6A5ACD?style=flat-square"></a>
   <a><img src="https://img.shields.io/badge/ML-NLP%20Based-0A66C2?style=flat-square"></a>
   <a href="https://drive.google.com/drive/folders/1YEB0w_tDlg8XT8nWkCjybzR0MWI3kf5E?usp=drive_link"><img src="https://img.shields.io/badge/Download-Dataset-success?style=flat-square&logo=google-drive" alt="Download Dataset"></a>
   <a href="https://www.linkedin.com/in/maazkareem-ai"><img src="https://img.shields.io/badge/LinkedIn-Maaz%20Kareem-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
