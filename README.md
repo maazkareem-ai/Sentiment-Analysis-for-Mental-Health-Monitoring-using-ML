@@ -1,7 +1,6 @@
 # 🧠 Mental Health Sentiment Analysis using Machine Learning
 
 <p>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
   <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
   <a><img src="https://img.shields.io/badge/Research-Thesis%20Project-6A5ACD?style=flat-square"></a>
   <a><img src="https://img.shields.io/badge/ML-NLP%20Based-0A66C2?style=flat-square"></a>
