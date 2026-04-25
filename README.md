@@ -1,7 +1,18 @@
+
+<br><br>
+
+<!-- ===================== MAIN TITLE ===================== -->
+<h1 align="center">🧠 Mental Health AI System</h1>
+
+<!-- ===================== ANIMATED HERO TEXT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=44&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1400&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+%7C+AI+Research+Project;Gold+Medalist+Final+Year+Thesis" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=44&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1400&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+%7C+AI+Research+Project;Gold+Medalist+Final+Year+Thesis+Project" />
 </p>
 
+<!-- ===================== SUBTITLE ===================== -->
+<p align="center">
+  <b>Machine Learning • NLP • Deep Learning • AI for Healthcare Systems</b>
+</p>
 
 <p>
   <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
