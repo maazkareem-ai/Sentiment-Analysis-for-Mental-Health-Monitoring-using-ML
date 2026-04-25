@@ -1,6 +1,6 @@
 
 <!-- ===================== STABLE PINK TITLE ===================== -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MENTAL+HEALTH+MONITORING+%E2%9A%A1" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MENTAL+HEALTH+MONITORING+%E2%9A%A1" alt="Tyyyping SVG" />
 <!-- ===================== MOVING SUBTITLE ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1100&lines=Sentiment+Analysis+using+Machine+Learning+%7C+NLP;Gold+Medalist+Final+Year+Thesis+Project;AI+for+Healthcare+and+Real+World+Impact" />
