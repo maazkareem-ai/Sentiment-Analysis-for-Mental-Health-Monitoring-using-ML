@@ -1,4 +1,6 @@
-# 🧠 Mental Health Sentiment Analysis using Machine Learning
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Sentiment+Analysis+for+Mental+Health+Monitoring;Machine+Learning+%7C+NLP+Research+Project;Gold+Medalist+Final+Year+Thesis+Work" />
+</p>
 
 <p>
   <a><img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version"></a>
