@@ -170,7 +170,7 @@ If you use this repository for your research or publications, please cite it as:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Mental-Health-Sentiment-Analysis-Using-Machine-Learning.git
+git clone https://github.com/maazkareem-ai/Mental-Health-Sentiment-Analysis-Using-Machine-Learning.git
 cd Mental-Health-Sentiment-Analysis-Using-Machine-Learning
 
 # Install dependencies
