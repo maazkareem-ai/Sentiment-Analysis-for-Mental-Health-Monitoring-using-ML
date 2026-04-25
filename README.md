@@ -2,7 +2,7 @@
 
 <!-- ===================== BIG MOVING TITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=60&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Mental+Health+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=56&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=1200&lines=Mental+Health+Monitoring" />
 </p>
 
 <!-- ===================== SMALL MOVING SUBTITLE ===================== -->
@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=1200&lines=Sentiment+Analysis+using+Machine+Learning+%7C+NLP+Research;Gold+Medalist+Final+Year+Thesis+Project;AI+for+Healthcare+and+Real+World+Impact" />
 </p>
 
-<br>
 
 
 <p>
