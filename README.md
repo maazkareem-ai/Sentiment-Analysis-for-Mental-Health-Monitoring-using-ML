@@ -1,4 +1,4 @@
-
+</br>
 <!-- ===================== STABLE PINK TITLE ===================== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=1&pause=999999&color=0A66C2&center=true&vCenter=true&width=800&height=40&lines=⚡+MENTAL+HEALTH+MONITORING+⚡" alt="Typing SVG" />
 <!-- ===================== MOVING SUBTITLE ===================== -->
